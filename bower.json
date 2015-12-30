@@ -1,0 +1,22 @@
+{
+  "name": "Lay",
+  "authors": [
+    "ashishku <ashish.kvarma@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "LAY": "~0.8.14",
+    "requirejs": "~2.1.22"
+  }
+}
